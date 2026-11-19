@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard K3 \u0026 Pemantauan Pekerjaan",
+  "description": "Dashboard pemantauan kegiatan proyek, K3, APD, dan penilaian resiko keselamatan kerja Departemen Teknik Sipil dan Lingkungan",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

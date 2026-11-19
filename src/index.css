@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ugm-blue: #005B7F;
+  --color-ugm-blue-dark: #003B52;
+  --color-ugm-blue-navy: #002838;
+  --color-ugm-blue-light: #0076A3;
+  --color-ugm-blue-subtle: #EBF5F9;
+  --color-ugm-yellow: #FFCF01;
+  --color-ugm-yellow-dark: #E5B800;
+  --color-ugm-yellow-light: #FFE052;
+  --color-ugm-yellow-subtle: #FFFBE6;
+}
